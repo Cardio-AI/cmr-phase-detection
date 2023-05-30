@@ -7,9 +7,6 @@ This repository was used for the following paper:
 
 For a more detailed description, a model definition and further results we refer to our [paper](#paper).
 
-Please note: this is an ongoing repository, while paper creation we worked with the following code version:
-commit: 2b77177c469531497a7aa9d9217504284053f7a9
-
 # Motivation
 
 ## How can we derive knowledge about the cardiac phases from CMR without access to any label?
